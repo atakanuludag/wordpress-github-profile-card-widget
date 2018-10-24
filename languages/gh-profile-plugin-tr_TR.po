@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Github Profile Widget Card\n"
+"POT-Creation-Date: 2018-10-25 00:26+0300\n"
+"PO-Revision-Date: 2018-10-25 00:29+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: plugin.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: plugin.php:36
+msgid "Github Profile Card"
+msgstr "Github Profil Kartı"
+
+#. Description of the plugin/theme
+#: plugin.php:37
+msgid "Github profile card widget."
+msgstr "Github profil kart bileşeni."
+
+#: plugin.php:94 plugin.php:109
+msgid "Follow"
+msgstr "Takip Et"
+
+#: plugin.php:114
+msgid "Repositories"
+msgstr "Repolar"
+
+#: plugin.php:115
+msgid "Followers"
+msgstr "Takipçiler"
+
+#: plugin.php:124
+msgid "Blog"
+msgstr "Blog"
+
+#: plugin.php:153
+msgid "Github Profile"
+msgstr "Github Profili"
+
+#: plugin.php:164
+msgid "Widget Title"
+msgstr "Bileşen Başlığı"
+
+#: plugin.php:169
+msgid "Github Username"
+msgstr "Github Kullanıcı Adı"
+
+#: plugin.php:175
+msgid "Show Follow Button ?"
+msgstr "Takip et butonu gösterilsin mi ?"
+
+#: plugin.php:180
+msgid "Show Counter ?"
+msgstr "Sayaçlar gösterilsin mi ?"
+
+#: plugin.php:185
+msgid "Show Information ?"
+msgstr "Bilgiler gösterilsin mi ?"
+
+#: plugin.php:190
+msgid "Show Description ?"
+msgstr "Açıklama gösterilsin mi ?"
+
+#. Plugin Name of the plugin/theme
+msgid "Github Profile Widget Card"
+msgstr "Github Profil Bileşen Kartı"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.atknuludag.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Atakan Yasin Uludag"
+msgstr ""
