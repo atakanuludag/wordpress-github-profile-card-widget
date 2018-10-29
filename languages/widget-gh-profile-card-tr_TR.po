@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Project-Id-Version: Github Profile Widget Card\n"
-"POT-Creation-Date: 2018-10-25 00:26+0300\n"
-"PO-Revision-Date: 2018-10-25 00:29+0300\n"
+"Project-Id-Version: Widget Github Profile Card\n"
+"POT-Creation-Date: 2018-10-28 21:19+0300\n"
+"PO-Revision-Date: 2018-10-28 21:22+0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -11,7 +11,7 @@ msgstr ""
 "X-Generator: Poedit 2.1.1\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
-"X-Poedit-WPHeader: plugin.php\n"
+"X-Poedit-WPHeader: widget-github-profile.php\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "Last-Translator: \n"
@@ -19,68 +19,71 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 
-#: plugin.php:36
+#: widget-github-profile.php:36
 msgid "Github Profile Card"
 msgstr "Github Profil Kartı"
 
 #. Description of the plugin/theme
-#: plugin.php:37
-msgid "Github profile card widget."
-msgstr "Github profil kart bileşeni."
+#: widget-github-profile.php:37
+msgid "Shows your github profile in detail."
+msgstr "Github profilinizi detaylı şekilde bileşenlerde gösterir."
 
-#: plugin.php:94 plugin.php:109
+#: widget-github-profile.php:91 widget-github-profile.php:106
 msgid "Follow"
 msgstr "Takip Et"
 
-#: plugin.php:114
+#: widget-github-profile.php:111
 msgid "Repositories"
 msgstr "Repolar"
 
-#: plugin.php:115
+#: widget-github-profile.php:112
 msgid "Followers"
 msgstr "Takipçiler"
 
-#: plugin.php:124
+#: widget-github-profile.php:121
 msgid "Blog"
 msgstr "Blog"
 
-#: plugin.php:153
+#: widget-github-profile.php:150
 msgid "Github Profile"
 msgstr "Github Profili"
 
-#: plugin.php:164
+#: widget-github-profile.php:160
 msgid "Widget Title"
 msgstr "Bileşen Başlığı"
 
-#: plugin.php:169
+#: widget-github-profile.php:165
 msgid "Github Username"
 msgstr "Github Kullanıcı Adı"
 
-#: plugin.php:175
+#: widget-github-profile.php:171
 msgid "Show Follow Button ?"
-msgstr "Takip et butonu gösterilsin mi ?"
+msgstr "Takip Et Butonu Gösterilsin mi ?"
 
-#: plugin.php:180
+#: widget-github-profile.php:176
 msgid "Show Counter ?"
-msgstr "Sayaçlar gösterilsin mi ?"
+msgstr "Sayaç Gösterilsin mi ?"
 
-#: plugin.php:185
+#: widget-github-profile.php:181
 msgid "Show Information ?"
-msgstr "Bilgiler gösterilsin mi ?"
+msgstr "Detaylar Gösterilsin mi ?"
 
-#: plugin.php:190
+#: widget-github-profile.php:186
 msgid "Show Description ?"
-msgstr "Açıklama gösterilsin mi ?"
+msgstr "Açıklama Gösterilsin mi ?"
 
 #. Plugin Name of the plugin/theme
-msgid "Github Profile Widget Card"
-msgstr "Github Profil Bileşen Kartı"
+msgid "Widget Github Profile Card"
+msgstr "Github Profil Kartı"
 
 #. Plugin URI of the plugin/theme
-#. Author URI of the plugin/theme
 msgid "https://www.atknuludag.com"
-msgstr ""
+msgstr "https://www.atknuludag.com"
 
 #. Author of the plugin/theme
 msgid "Atakan Yasin Uludag"
-msgstr ""
+msgstr "Atakan Yasin Uludag"
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/atakanuludag"
+msgstr "https://github.com/atakanuludag"
